@@ -1,0 +1,66 @@
+.header {
+    background-color: rgb(38, 38, 70);
+}
+
+.nav {
+    color: white;
+}
+
+.navloginbtn {
+background-color: rgb(69, 227, 190) ;
+}
+.navloginbtn:hover {
+transform: translateX();
+transition: 5;
+}
+.navbtn {
+    background-color: rgb(47, 189, 234);
+    padding: 10px;
+}
+.navbtn:hover {
+    background-color: rgb(47, 189, 234);
+}
+.navbtn2 {
+    background-color: rgb(135, 138, 165);
+    color: rgb(255, 253, 245);
+    padding: 10px;
+}
+
+.aboutsec1 {
+    background-color: rgb(255, 91, 170);
+    z-index: 5;
+}
+
+.aboutsec1img {
+    margin-bottom: 40px;
+    position: relative;
+    z-index: 4;
+}
+.aboutsec2 {
+    background-color: rgb(47, 189, 234);
+}
+
+.loginbtn {
+    background-color: rgb(47, 189, 234);
+    padding: 10px;
+    border: transparent;
+    width: 300px;
+}
+
+
+.googlebtn {
+    padding: 10px;
+    border: transparent;
+    width: 300px;
+}
+
+.contactsec {
+     background-color: rgb(69, 227, 190);
+}
+.contactbtn {
+    background-color: rgb(38, 38, 70);
+    padding: 10px;
+    color: white;
+    border: transparent;
+    width: 100px;
+}
